@@ -22,7 +22,7 @@ easydict
 urllib3
 boto3
 omegaconf
-transformers==4.33.2
+transformers==5.10.1
 pycocoevalcap
 gym3==0.3.3
 gym==0.26.2
